@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "name": "purescript-web-notification",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^4.1.0",
+    "purescript-effect": "^2.0.0",
+    "purescript-datetime": "^4.0.0",
+    "purescript-web-html": "^1.0.0",
+    "purescript-typelevel-prelude": "^3.0.0"
+  },
+  "devDependencies": {
+    "purescript-console": "^4.1.0",
+    "purescript-psci-support": "^4.0.0"
+  }
+}
